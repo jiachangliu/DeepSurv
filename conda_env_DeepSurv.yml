@@ -1,0 +1,12 @@
+name: DeepSurv
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - htop
+  - poetry
+  - cookiecutter
+  - myst-nb
+  - scalene
+
+# conda env create -f conda_env_SurvivalScore.yml
