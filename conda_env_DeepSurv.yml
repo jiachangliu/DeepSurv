@@ -8,5 +8,7 @@ dependencies:
   - cookiecutter
   - myst-nb
   - scalene
+  - pip:
+    - https://github.com/Lasagne/Lasagne/archive/master.zip
 
 # conda env create -f conda_env_SurvivalScore.yml
